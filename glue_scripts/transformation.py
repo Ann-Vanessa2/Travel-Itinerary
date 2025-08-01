@@ -291,11 +291,11 @@ for table_name in tables:
         # Enforce schema
         validated_df = spark.createDataFrame(df.rdd, schema=schema)
 
-        # DELETE SOURCE FILES before writing to curated S3
+        # DELETE SOURCE FILES before writing to S3
         if table_name in tables_to_delete:
             # Get S3 source path from Glue Catalog metadata
             source_path = dyf.glue_ctx.catalog_client.get_table(
-                DatabaseName=args['SOURCE_DATABASE'], # travel_itinerary
+                DatabaseName=args['SOURCE_DATABASE'], # travel_itinerary_raw
                 Name=table_name
             )['StorageDescriptor']['Location']
 
@@ -314,7 +314,7 @@ for table_name in tables:
             else:
                 logger.warning(f"No objects found for deletion for table {table_name}")
 
-        # Write to curated S3 (silver layer)
+        # Write to S3 (silver layer)
         target_path = f"s3://{args['S3_OUTPUT_BUCKET']}/silver/{timestamp}/{table_name}/"
         validated_df.write.mode("overwrite").parquet(target_path)
 
