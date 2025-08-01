@@ -12,6 +12,10 @@ Destination: Amazon S3 (Bronze & Silver)
 Bronze Bucket (Raw Data)
 Silver Bucket (Cleaned Data)
 
+## Architecture Diagram
+![Lakehouse Architecture](images\Architecture_Diagram.png)
+
+
 ### 2. Validation and Transformation Rules
 Bronze Layer (Glue Job 1 - Extract & Load):
 - Extracts all tables from RDS using JDBC connection
