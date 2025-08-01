@@ -1,4 +1,6 @@
--- TRAVEL ANALYTICS STAR SCHEMA
+-- TRAVEL ITINERARY STAR SCHEMA IN REDSHIFT
+-- This schema is designed for a travel itinerary application, 
+-- focusing on trips, users, destinations, activities, and expenses.
 
 -- DIMENSION TABLES
 

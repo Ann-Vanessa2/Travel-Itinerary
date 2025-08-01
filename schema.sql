@@ -1,3 +1,7 @@
+-- TRAVEL ITINERARY SCHEMA IN POSTGRESQL
+-- This schema defines the structure for a travel itinerary application, 
+-- including users, trips, destinations, activities, and related entities.
+
 CREATE TABLE IF NOT EXISTS users (
     id BIGINT PRIMARY KEY,
     username varchar(255) NOT NULL UNIQUE,
