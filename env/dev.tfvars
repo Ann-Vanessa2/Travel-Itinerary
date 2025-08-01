@@ -1,3 +1,2 @@
-db_username     = "postgres"
-db_password     = "annvanessa123"
-redshift_password = "Annvanessa123"
+db_username = "postgres"
+# db_password and redshift_password will be injected via GitHub Actions
