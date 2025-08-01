@@ -1,0 +1,22 @@
+{
+  "Comment": "State machine for end-to-end ETL: RDS -> S3 -> Preprocess -> S3 -> Redshift",
+  "StartAt": "Run Glue Job - RDS to S3",
+  "States": {
+    "Run Glue Job - RDS to S3": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::glue:startJobRun.sync",
+      "Parameters": {
+        "JobName": "IngestToS3job"
+      },
+      "Next": "Run Glue Job - S3 Preprocessing"
+    },
+    "Run Glue Job - S3 Preprocessing": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::glue:startJobRun.sync",
+      "Parameters": {
+        "JobName": "TransformationJob"
+      },
+      "End": true
+    }
+  }
+}
