@@ -1,0 +1,21 @@
+id,amount,activity_id,activity_name,description,date,trip_id
+1,150.00,3,"Sunset Cruise","Evening cruise with dinner",2024-08-05,1
+2,25.00,1,"City Museum","Museum entry ticket",2024-07-12,1
+3,12.50,2,"Botanical Garden","Entry fee",2024-07-13,1
+4,100.00,4,"Mountain Hike","Hiking guide charges",2024-07-15,2
+5,8.00,5,"Local Café","Coffee and snacks",2024-07-15,2
+6,65.00,6,"Art Workshop","Workshop fee",2024-08-01,3
+7,20.00,7,"Historic Fort","Entry and guide",2024-08-02,3
+8,150.00,8,"Cooking Class","Cultural cooking experience",2024-08-03,3
+9,200.00,9,"Scuba Diving","Dive session",2024-08-04,4
+10,45.00,10,"Wine Tasting","Local vineyard tasting",2024-08-05,4
+11,10.00,11,"Botanical Garden","Entry fee",2024-08-06,4
+12,90.00,12,"Safari Tour","Half-day wildlife safari",2024-08-06,5
+13,18.50,13,"Street Food Tour","Lunch with tour",2024-08-07,5
+14,55.00,14,"Beachside Dinner","Dinner by the sea",2024-08-07,5
+15,30.00,15,"Kayaking","Half-day rental",2024-08-08,5
+16,60.00,16,"Mountain Trek","Guided trek",2024-08-08,6
+17,22.00,17,"Local Theater","Play ticket",2024-08-09,6
+18,75.00,18,"Theme Park","Admission",2024-08-09,6
+19,90.00,19,"Helicopter Tour","Short scenic ride",2024-08-10,6
+20,35.00,20,"Farmers Market","Local produce and snacks",2024-08-10,6

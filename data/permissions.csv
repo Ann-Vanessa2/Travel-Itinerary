@@ -1,0 +1,7 @@
+permission_id,permission_name
+101,read_reports
+102,edit_profile
+103,admin_access
+104,manage_users
+105,manage_roles
+106,export_data

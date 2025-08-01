@@ -1,0 +1,21 @@
+id,name,description,state,country,image_url,geolocation_latitude,geolocation_longitude,geolocation_description
+1,Eiffel Tower,Iconic wrought-iron tower in Paris.,Île-de-France,France,https://example.com/eiffel.jpg,48.8584,2.2945,Paris landmark
+2,Grand Canyon,Vast natural canyon with scenic views.,Arizona,USA,https://example.com/grandcanyon.jpg,36.1069,-112.1129,South Rim Viewpoint
+3,Mount Fuji,Sacred mountain and hiking destination.,Honshu,Japan,https://example.com/fuji.jpg,35.3606,138.7274,Chureito Pagoda View
+4,Sydney Opera House,World-renowned performing arts center.,New South Wales,Australia,https://example.com/sydney.jpg,-33.8568,151.2153,Bennelong Point
+5,Table Mountain,Flat-topped mountain with panoramic views.,Western Cape,South Africa,https://example.com/tablemountain.jpg,-33.9628,18.4098,Cape Town icon
+6,Christ the Redeemer,Huge statue overlooking Rio.,Rio de Janeiro,Brazil,https://example.com/christ.jpg,-22.9519,-43.2105,Corcovado Mountain
+7,Niagara Falls,Dramatic waterfalls between US and Canada.,Ontario,Canada,https://example.com/niagara.jpg,43.0962,-79.0377,Horseshoe Falls
+8,Taj Mahal,White marble mausoleum of immense beauty.,Uttar Pradesh,India,https://example.com/taj.jpg,27.1751,78.0421,Agra
+9,Santorini Cliffs,Famous white-washed villages and sea views.,Cyclades,Greece,https://example.com/santorini.jpg,36.3932,25.4615,Oia Village
+10,Machu Picchu,Ancient Incan city in the Andes.,Cusco,Peru,https://example.com/machu.jpg,-13.1631,-72.5450,Lost City of the Incas
+11,Banff National Park,Scenic lakes and mountains in Canada.,Alberta,Canada,https://example.com/banff.jpg,51.4968,-115.9281,Lake Louise
+12,Colosseum,Ancient Roman gladiatorial arena.,Lazio,Italy,https://example.com/colosseum.jpg,41.8902,12.4922,Rome
+13,Petra,Rock-cut architecture in desert canyons.,Ma'an,Jordan,https://example.com/petra.jpg,30.3285,35.4444,The Treasury
+14,Burj Khalifa,Tallest building in the world.,Dubai,UAE,https://example.com/burj.jpg,25.1972,55.2744,Downtown Dubai
+15,Chichen Itza,Historic Mayan pyramid site.,Yucatán,Mexico,https://example.com/chichen.jpg,20.6843,-88.5678,El Castillo
+16,Louvre Museum,World's largest art museum.,Île-de-France,France,https://example.com/louvre.jpg,48.8606,2.3376,Paris
+17,Yellowstone,First national park in the US.,Wyoming,USA,https://example.com/yellowstone.jpg,44.4280,-110.5885,Old Faithful
+18,Great Wall of China,Ancient wall stretching thousands of miles.,Beijing,China,https://example.com/greatwall.jpg,40.4319,116.5704,Mutianyu Section
+19,Bora Bora,Island paradise with turquoise lagoons.,Leeward Islands,French Polynesia,https://example.com/borabora.jpg,-16.5004,-151.7415,Mount Otemanu View
+20,Mount Kilimanjaro,Africa's highest peak.,Kilimanjaro,Tanzania,https://example.com/kili.jpg,-3.0674,37.3556,Uhuru Peak

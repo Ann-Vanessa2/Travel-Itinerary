@@ -1,0 +1,21 @@
+id,name,description,address,image_url,source_website_url,destination_id,geolocation_latitude,geolocation_longitude,geolocation_description,price_amount,price_currency,price_description
+1,Eiffel Tower Tour,Guided tour with access to 2nd floor.,"Champ de Mars, Paris",https://example.com/eiffel-tour.jpg,https://toureiffel.paris,1,48.8584,2.2945,Near Seine River,35,EUR,Adult ticket
+2,Helicopter Ride Grand Canyon,Aerial views of the canyon.,"Las Vegas Blvd, Arizona",https://example.com/gc-heli.jpg,https://grandcanyonhelicopters.com,2,36.1069,-112.1129,South Rim Viewpoint,299,USD,Standard ride
+3,Fuji Climbing Experience,Two-day hike with guide.,"Fujinomiya Trail, Honshu",https://example.com/fuji-hike.jpg,https://fujiclimb.jp,3,35.3606,138.7274,Trailhead access,150,JPY,Climbing pass
+4,Opera House Tour,Sydney Opera House behind-the-scenes.,"Bennelong Point, Sydney",https://example.com/sydney-tour.jpg,https://sydneyoperahouse.com,4,-33.8568,151.2153,Harbor entrance,42,AUD,Adult entry
+5,Cableway to Table Mountain,Panoramic view ride.,"Tafelberg Rd, Cape Town",https://example.com/tablecable.jpg,https://tablemountain.net,5,-33.9628,18.4098,Cableway base station,25,ZAR,Return trip
+6,Christ Statue Visit,Climb and view from the top.,"Cosme Velho, Rio",https://example.com/christ-tour.jpg,https://corcovado.com,6,-22.9519,-43.2105,Statue base station,18,BRL,Incl. tram
+7,Niagara Falls Boat Ride,Boat tour to base of the falls.,"Niagara Parkway, Ontario",https://example.com/niagara-boat.jpg,https://maidofmist.com,7,43.0962,-79.0377,Horseshoe Falls dock,30,CAD,30 min ride
+8,Taj Mahal Sunrise Entry,Entry at sunrise with guide.,"Dharmapuri, Agra",https://example.com/taj-entry.jpg,https://tajmahal.gov.in,8,27.1751,78.0421,East Gate Entry,12,INR,Foreign visitor
+9,Santorini Sunset Sail,Sailing and island dinner.,"Ammoudi Bay, Oia",https://example.com/santorini-sail.jpg,https://sailing-santorini.com,9,36.3932,25.4615,Oia port,95,EUR,Sunset dinner cruise
+10,Machu Picchu Trek,Full-day hike with historical insights.,"Aguas Calientes, Peru",https://example.com/machu-trek.jpg,https://machupicchu.gob.pe,10,-13.1631,-72.545,Sun Gate entrance,45,PEN,Standard ticket
+11,Banff Canoe Rental,Paddle around the turquoise lake.,"Lake Louise, Alberta",https://example.com/banff-canoe.jpg,https://banffcanoeclub.com,11,51.4968,-115.9281,Lake entrance,70,CAD,1 hour rental
+12,Colosseum Underground Tour,Explore the arena and dungeons.,"Piazza del Colosseo, Rome",https://example.com/colosseum-tour.jpg,https://romecolosseumtickets.com,12,41.8902,12.4922,Main gate Rome,25,EUR,Adult pass
+13,Petra Camel Ride,Scenic camel ride through ancient city.,"Petra Visitor Center, Jordan",https://example.com/petra-camel.jpg,https://visitpetra.jo,13,30.3285,35.4444,Entrance Gate,15,JOD,30-minute ride
+14,Burj Khalifa Observation Deck,Access to observation decks.,"1 Sheikh Mohammed Blvd, Dubai",https://example.com/burj-deck.jpg,https://burjkhalifa.ae,14,25.1972,55.2744,Level 124 entry,50,AED,At The Top ticket
+15,Chichen Itza Light Show,Nighttime pyramid projection.,"Chichen Gate, Yucatan",https://example.com/chichen-light.jpg,https://chichenitza.com,15,20.6843,-88.5678,Temple of Kukulcan,20,MXN,Night event
+16,Louvre Masterpieces Tour,Highlights with licensed guide.,"Rue de Rivoli, Paris",https://example.com/louvre-tour.jpg,https://louvre.fr,16,48.8606,2.3376,Glass Pyramid,17,EUR,Adult access
+17,Yellowstone Geyser Walk,Guided geothermal tour.,"Yellowstone Park Rd, Wyoming",https://example.com/yellowstone-walk.jpg,https://yellowstonepark.com,17,44.428,-110.5885,Old Faithful Loop,10,USD,Guided walk
+18,Great Wall Day Hike,Hike a quiet section with guide.,"Mutianyu Wall Entry, Beijing",https://example.com/greatwall-hike.jpg,https://greatwallhiking.com,18,40.4319,116.5704,Tower 6 view,60,CNY,Half-day tour
+19,Bora Bora Reef Snorkeling,Coral reef exploration.,"Matira Beach Pier, Bora Bora",https://example.com/borabora-snorkel.jpg,https://boraborasafari.com,19,-16.5004,-151.7415,Lagoon pickup,85,XPF,With gear
+20,Kilimanjaro Base Hike,Guided trek to Mandara Hut.,"Marangu Gate, Tanzania",https://example.com/kili-trek.jpg,https://kilitrek.com,20,-3.0674,37.3556,Start of Marangu Route,120,TZS,One-day trek

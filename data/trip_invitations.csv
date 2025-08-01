@@ -1,0 +1,21 @@
+id,trip_id,inviter_id,invitee_email,invitation_token,status,trip_title,inviter_name,created_at,expires_at
+1,1,101,john.doe@example.com,TKN1,Pending,Trip to Iceland,Jane Smith,2025-07-01 09:30:00,2025-07-10 09:30:00
+2,2,102,jane.doe@example.com,TKN2,Accepted,Summer in Spain,Mark Lee,2025-07-02 14:00:00,2025-07-12 14:00:00
+3,3,103,alex.brown@example.com,TKN3,Declined,Adventure in Kenya,Emily Zhang,2025-07-03 11:15:00,2025-07-13 11:15:00
+4,4,104,michael.wu@example.com,TKN4,Pending,Trip to Tokyo,Lucas Kim,2025-07-04 16:20:00,2025-07-14 16:20:00
+5,5,105,sarah.connor@example.com,TKN5,Accepted,Hiking Rockies,Nina Rossi,2025-07-05 08:45:00,2025-07-15 08:45:00
+6,1,101,martin.king@example.com,TKN6,Expired,Trip to Iceland,Jane Smith,2025-07-06 10:00:00,2025-07-16 10:00:00
+7,2,102,emma.stone@example.com,TKN7,Pending,Summer in Spain,Mark Lee,2025-07-07 13:00:00,2025-07-17 13:00:00
+8,3,103,li.chen@example.com,TKN8,Accepted,Adventure in Kenya,Emily Zhang,2025-07-08 15:30:00,2025-07-18 15:30:00
+9,4,104,noah.clark@example.com,TKN9,Pending,Trip to Tokyo,Lucas Kim,2025-07-09 17:45:00,2025-07-19 17:45:00
+10,5,105,lily.evans@example.com,TKN10,Declined,Hiking Rockies,Nina Rossi,2025-07-10 12:00:00,2025-07-20 12:00:00
+11,1,101,harry.potter@example.com,TKN11,Accepted,Trip to Iceland,Jane Smith,2025-07-11 09:00:00,2025-07-21 09:00:00
+12,2,102,ron.weasley@example.com,TKN12,Pending,Summer in Spain,Mark Lee,2025-07-12 11:30:00,2025-07-22 11:30:00
+13,3,103,hermione.granger@example.com,TKN13,Pending,Adventure in Kenya,Emily Zhang,2025-07-13 13:45:00,2025-07-23 13:45:00
+14,4,104,draco.malfoy@example.com,TKN14,Accepted,Trip to Tokyo,Lucas Kim,2025-07-14 14:15:00,2025-07-24 14:15:00
+15,5,105,luna.lovegood@example.com,TKN15,Expired,Hiking Rockies,Nina Rossi,2025-07-15 10:10:00,2025-07-25 10:10:00
+16,1,101,neville.longbottom@example.com,TKN16,Declined,Trip to Iceland,Jane Smith,2025-07-16 08:30:00,2025-07-26 08:30:00
+17,2,102,ginnny.weasley@example.com,TKN17,Accepted,Summer in Spain,Mark Lee,2025-07-17 12:25:00,2025-07-27 12:25:00
+18,3,103,fred.weasley@example.com,TKN18,Pending,Adventure in Kenya,Emily Zhang,2025-07-18 16:55:00,2025-07-28 16:55:00
+19,4,104,george.weasley@example.com,TKN19,Pending,Trip to Tokyo,Lucas Kim,2025-07-19 10:40:00,2025-07-29 10:40:00
+20,5,105,albus.dumbledore@example.com,TKN20,Accepted,Hiking Rockies,Nina Rossi,2025-07-20 11:50:00,2025-07-30 11:50:00
