@@ -55,7 +55,6 @@ for table in tables:
     
     # Write to S3 in Parquet format (you can change to CSV or other formats)
     output_path = f"s3://{s3_output_bucket}/bronze/{timestamp}/{table}/"
-    # output_path = f"s3://{s3_output_bucket}/bronze/{table}/"
     df.write.mode("overwrite").parquet(output_path)
     
     print(f"Successfully exported {table} to {output_path}")

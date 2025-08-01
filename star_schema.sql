@@ -101,7 +101,6 @@ CREATE TABLE dim_category (
 
 -- FACT TABLES
 
-
 -- Trip Fact Table (Main fact table for trip analysis)
 CREATE TABLE fact_trip (
     trip_key INTEGER NOT NULL,

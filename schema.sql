@@ -24,12 +24,13 @@ CREATE TABLE IF NOT EXISTS verification_token (
     user_id BIGINT NOT NULL
 );
 
-
+-- User Permissions Table
 CREATE TABLE user_permissions (
     user_id BIGINT NOT NULL,
     permissions VARCHAR(100) NOT NULL
 );
 
+-- Permissions_User Table
 CREATE TABLE permissions_user (
     user_id BIGINT NOT NULL,
     permission_id BIGINT NOT NULL
@@ -93,7 +94,6 @@ CREATE TABLE trip_participants (
     UNIQUE (trip_id, user_id),
     FOREIGN KEY (trip_id) REFERENCES trip(id)
 );
-
 
 -- Trip Invitations Table
 CREATE TABLE trip_invitations (
